@@ -1,2 +1,10 @@
 my*.*
 
+Nextion*
+Nextion*/
+
+Credentials.h
+
+.pio
+.vscode
+
